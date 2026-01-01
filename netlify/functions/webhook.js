@@ -1,5 +1,5 @@
 const handler = async (event) => {
-  const VERIFY_TOKEN = "iVhubyPfGBgfkWAO";
+  const VERIFY_TOKEN = "hLdddUClWwE5iE10";
 
   if (event.httpMethod === "GET") {
     const params = event.queryStringParameters;
